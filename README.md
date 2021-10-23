@@ -4,4 +4,8 @@ Crown Clothing is an e-commerce portfolio project created with [Create React App
 
 ## Routing
 
-React-router-dom used for routing.
+[React-router-dom](https://reactrouter.com/web/guides/quick-start) used for routing.
+
+## Storage and Authentication
+
+[Firebase](https://firebase.google.com/docs/)
